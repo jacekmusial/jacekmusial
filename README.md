@@ -2,7 +2,7 @@
 
 👂 My name is pronounced as: (Polish) [ˈjat͡sɛk]
 
-📖 I’m currently learning for my first Java 11 certificate, 1Z0-815. 
+📖 I’m currently learning for my first certificate, Java 11 1Z0-819. 
 
 ⚡ Fun fact: My last name translates to "have to" so please don't ask me to do something. 😉
 
